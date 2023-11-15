@@ -16,5 +16,5 @@ I created the [Unified Expressions](https://docs.vrcft.io/docs/tutorial-avatars/
   
 
 ## More
-* [X](x.com/azmidiVRC)
+* [X](twitter.com/azmidiVRC)
 * [Gumroad](azmidi.gumroad.com)
